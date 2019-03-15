@@ -1,1 +1,1 @@
-# Landing-Page with Blur Effect
+# Landing Page with Blur Effect
